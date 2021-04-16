@@ -1,0 +1,3 @@
+I accidentally deleted the folder that contained the files for my Minesweeper game. I got the Grid.java file from my class submission. The other class was covered in this YouTube video, where I explained how I created it.
+
+https://www.youtube.com/watch?v=VuF6L1Iuiuc
